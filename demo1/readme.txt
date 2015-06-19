@@ -14,10 +14,3 @@ git push -u origin master
 git pull
 Lesson 3
 --------
-git clone https://github.com/apfl/repo1.git demo1
-git branch cat
-git branch
-git checkout cat "move to the new branch cat"
-git checkout -b cat "creates and checks out branch"
-git merge cat
-git branch -d cat
