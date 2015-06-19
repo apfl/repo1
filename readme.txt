@@ -21,3 +21,4 @@ git checkout cat "move to the new branch cat"
 git checkout -b cat "creates and checks out branch"
 git merge cat
 git branch -d cat
+changed
