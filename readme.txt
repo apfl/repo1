@@ -1,4 +1,4 @@
-This is a test readme.
+These are the basic git instructions
 added a new line
 new change to the readme
 git config --global user.name "Athanasios Floros"
