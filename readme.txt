@@ -1,6 +1,12 @@
 This is a test readme.
 added a new line
 new change to the readme
+git config --global user.name "Athanasios Floros"
+git config --global user.email afloros@exactag.com
+mkdir store
+cd store
+git init
+git status
 git checkout -- filename "deletes chnges from files"
 git commit --amend -m "adds files to the last commit"
 git commit -a -m "adds files to stage and commits them simultaneously"
