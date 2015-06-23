@@ -1,6 +1,7 @@
 These are the basic git instructions
 added a new line
 new change to the readme
+This is a new change we have lately done.1
 -------------------
 git config --global user.name "Athanasios Floros"
 git config --global user.email afloros@exactag.com
