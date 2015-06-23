@@ -56,6 +56,15 @@ git branch -d shopping_cart //Deletes local branch
 git branch -D shopping_cart
 git rm README.txt
 
+Lesson 5
+------------
+git checkout -b shopping_cart
+git push origin shopping_cart
+
+git tag
+git checkout v.1
+git tag -a v.0.0.1 -m "version 0.0.1"
+git push --tags
 
 Questions
 ----
