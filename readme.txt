@@ -65,6 +65,9 @@ git tag
 git checkout v.1
 git tag -a v.0.0.1 -m "version 0.0.1"
 git push --tags
+git log --since=1.day.ago
+git diff HEAD^
+git diff HEAD^^
 
 Questions
 ----
