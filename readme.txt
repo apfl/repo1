@@ -10,6 +10,9 @@ mkdir store
 cd store
 git init
 git status
+
+Lesson 2
+---------
 git diff
 git diff --staged
 git reset HEAD readme.txt // it unstages a file from the stage
