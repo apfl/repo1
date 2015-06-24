@@ -77,8 +77,6 @@ Questions
 ----
 how to push a repo to a production server
 
-Hello Anastasiia
-
 I have everything up and running 
 I learned the basics with git (pulls, pushes, branches, tags etc)
 and i got acquanted with phpstorm with git to a sample project
@@ -87,7 +85,7 @@ where do i send my ssh key to have access?
 i am currently unable to clone exactag-core.git repo
 
 
-Anastasiia i have a question
+
 when you have
 git branch admin
 git checkout admin
