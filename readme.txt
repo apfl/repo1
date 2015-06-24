@@ -3,7 +3,7 @@ added a new line
 new change to the readme
 This is a new change we have lately done.11
 this is a new change1111
-This is a basic git instructions manual
+This is a basic git instructions manual1
 -------------------
 Instructions taught:
 ---------------------
