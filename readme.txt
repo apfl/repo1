@@ -76,3 +76,20 @@ git.exactag.net:/exactag-core.git
 Questions
 ----
 how to push a repo to a production server
+
+Hello Anastasiia
+
+I have everything up and running 
+I learned the basics with git (pulls, pushes, branches, tags etc)
+and i got acquanted with phpstorm with git to a sample project
+Now its time to see some exactag code
+where do i send my ssh key to have access?
+i am currently unable to clone exactag-core.git repo
+
+
+Anastasiia i have a question
+when you have
+git branch admin
+git checkout admin
+echo "test" >> testfile.txt
+and you do ls you see all the files
