@@ -93,3 +93,15 @@ git checkout admin
 echo "test" >> testfile.txt
 and you do ls you see all the files
 git@github.com:apfl/repo1.git
+
+
+Extra Notes
+-------------
+git stash //it stashes your work
+git stash list //it gives you a status about your current stashes
+git stash apply //it applies the lastest stash
+git stash apply stash@{2} // it applies 2 stashes before.
+git stash apply --index //it applies the latest stash and restages previously staged files.
+git stash drop --destroys latest stash
+git stash pop //apply the stash and immediately drops it from the stack.
+git stash brand new_changes //creates a branch 
