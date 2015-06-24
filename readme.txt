@@ -92,3 +92,4 @@ git branch admin
 git checkout admin
 echo "test" >> testfile.txt
 and you do ls you see all the files
+git@github.com:apfl/repo1.git
