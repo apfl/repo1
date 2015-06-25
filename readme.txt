@@ -106,3 +106,13 @@ git stash apply --index //it applies the latest stash and restages previously st
 git stash drop --destroys latest stash
 git stash pop //apply the stash and immediately drops it from the stack.
 git stash brand new_changes //creates a branch 
+
+
+Extra Commands and Configurations
+---------------------------------------
+git blame readme.txt --date short
+git config --global color.ui true
+git log
+git log --pretty=oneline
+git log --oneline -p //patch, what lines where removed and added
+git log --oneline --graph
