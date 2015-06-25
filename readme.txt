@@ -119,3 +119,4 @@ git log --oneline --graph
 git diff master bird //difference between the 2 branches
 This is a new change i have made.
 This is a new change i have made to the cat branch. And the changes are now combined.
+A new change directly done to the master branch
