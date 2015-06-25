@@ -17,6 +17,7 @@ mkdir store
 cd store
 git init
 git status
+git add . //adds everything on stage.
 
 Lesson 2
 ---------
