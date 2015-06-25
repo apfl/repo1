@@ -116,3 +116,4 @@ git log
 git log --pretty=oneline
 git log --oneline -p //patch, what lines where removed and added
 git log --oneline --graph
+git diff master bird //difference between the 2 branches
