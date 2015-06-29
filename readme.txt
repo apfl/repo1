@@ -74,6 +74,7 @@ git log --since=1.day.ago
 git diff HEAD^
 git diff HEAD^^
 git.exactag.net:/exactag-core.git
+git@exactag.net:/exactag-core.git
 
 Questions
 ----
