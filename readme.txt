@@ -7,7 +7,7 @@ this is a new change1111
 This is a basic git instructions manual1
 -------------------
 Instructions taught:
----------------------
+--------------------
 
 Lesson 1
 -----------
