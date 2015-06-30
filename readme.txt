@@ -131,3 +131,4 @@ git stash save
 This is a change done to the rbr branch1
 This is a new change done to the master branch
 This is a new change done to the tns branch
+This is some change done to the local tns branch --oneline
